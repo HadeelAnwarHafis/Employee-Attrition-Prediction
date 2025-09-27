@@ -1,5 +1,9 @@
 # Employee Attrition Prediction Analysis
 
+##  Google colab Link :
+
+[Open this notebook in Google Colab](https://colab.research.google.com/drive/1c7qXP9jWugOB0Lyjh5d-9x5mJoUCW1wO?usp=sharing)
+
 ##  Project Overview
 
 This project implements machine learning algorithms to predict employee attrition for the **Coding Ninjas 10X AI-ML Program** assignment. The analysis uses a dataset of 9,000 employee records to build predictive models that can help HR departments identify employees at risk of leaving.
